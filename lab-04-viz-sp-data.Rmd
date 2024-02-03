@@ -56,6 +56,13 @@ We'll use the **tidyverse** package for much of the data wrangling and visualisa
 These packages are already installed for you.
 You can load them by running the following in your Console:
 
+When you do this lab to install `dsbox` you can copy the code below into the console:
+
+```
+install.packages("devtools")
+devtools::install_github("tidyverse/dsbox")
+```
+
 ```{r message = FALSE}
 library(tidyverse) 
 library(dsbox) 
