@@ -39,7 +39,7 @@ But for now we focus on the data that has already been scraped and tidied for yo
 
 # Getting started
 
-[Go to the github repo and bring it into Posit Cloud.]() 
+[Go to the github repo and bring it into Posit Cloud.](https://classroom.github.com/a/82bhDG2j) 
 
 ## Warm up
 
